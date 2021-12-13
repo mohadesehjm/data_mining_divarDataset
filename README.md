@@ -3,5 +3,5 @@
 Implement data cleaning, 
 frequent pattern, 
 clustering
-classification 
+and classification 
 on Divar dataset.

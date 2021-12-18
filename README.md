@@ -26,11 +26,13 @@ A: attribute fields containing values
 
 B: records × attributes
 
-
 At the end, third method had better result because our missing values were broadcasted.
 
 
-frequent pattern, 
+### frequent pattern
+This stage of project extract pattern 
+#### extract pattern of selling products in different cities
+
 clustering
 and classification 
 on Divar dataset.

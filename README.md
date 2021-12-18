@@ -11,17 +11,17 @@ also Completeness was checked in 3 way:
 Measurement Function A/B 
 
 
-1.	
+##### 1.	
 A: records with no missing attribute
 
 B: Total records in a dataset
 
-2.	
+##### 2.	
 A: number of data required for the particular context in the data file
 
 B: number of data in the specified particular context of intended use
 
-3.	
+##### 3.	
 A: attribute fields containing values 
 
 B: records × attributes

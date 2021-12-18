@@ -53,4 +53,4 @@ make product category based on popularity rate and people's purchase rate. use a
 
 
 ### classification
-predict price for products.
+predict price for products using LinearRegression algorithm.

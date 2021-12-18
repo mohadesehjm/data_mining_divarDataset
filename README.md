@@ -40,6 +40,17 @@ This stage of project extract pattern
 
 #### extract frequent pattern between products and platform
 
-clustering
-and classification 
-on Divar dataset.
+### clustering
+make product category based on popularity rate and people's purchase rate. use agglomerative, k-means and DBSCAN algoritms.
+
+#### clustring the cities based on posting products
+
+#### Clustring the cities based on selling products
+
+#### Comparison of clustring in previous phase
+
+#### Clustring products based on price
+
+
+### classification
+predict price for products.

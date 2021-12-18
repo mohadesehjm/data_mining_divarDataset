@@ -29,9 +29,16 @@ B: records × attributes
 At the end, third method had better result because our missing values were broadcasted.
 
 
-### frequent pattern
+
+### Frequent pattern
 This stage of project extract pattern 
-#### extract pattern of selling products in different cities
+#### extract pattern of selling products, which are post in Divar in different cities.
+
+#### extract pattern of selling products in Digikala dataset.
+
+#### extract frequent pattern between day of uploading post and platform
+
+#### extract frequent pattern between products and platform
 
 clustering
 and classification 
